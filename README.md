@@ -2,7 +2,7 @@
 
 ## Amma's Chair
 
-![Image 1] (images/chair_1.jpg)
+![Image 1] images/chair_1.jpg
 
 ![Image 2] (images/chair_2.jpg)
 
