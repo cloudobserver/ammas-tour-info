@@ -24,16 +24,18 @@ Some of the photos (the ones in which there is blue tape on the armrests) are fr
 ![Amma's chair foot cushion](/images/chair_7.jpg)
 
 ## Amma's Chair - Armrests
-### The next two photos show the armrests at the current height.
+### The next two photos show the armrests at the current height (2019).
 ![Amma's chair armrests with sitting cushion](/images/chair_recent_1.jpg)
 ![Amma's chair armrests without sitting cushion](/images/chair_recent_2.jpg)
 
 This old photo shows the armrests that are about 3.5 inches higher than today's chair. The chair Amma uses in Michigan has armrests at about the height shown here.
+
 ![Amma's chair armrest](/images/chair_4.jpg)
 
 
 ## Darshan Table -
 The height of the darshan table today is higher than shown in this old photo. The current darshan table is about 3.5 or 4 inches higher. Need to check.
+
 ![darshan table](/images/darshan_table.jpg)
 
 ## Chair Blocks for Amma's Chair -
@@ -76,6 +78,7 @@ Immediately after evening bhajans and meditation, two sevites move Amma's chair 
 
 ## Notes about Cloths for Amma's Chair -
 These notes about the chair coverings may be outdated so check with Hansa for current info.
+
 ![chair cloth notes](/images/chair_cloth_notes.jpg)
 
 ## Flower Basket for Amma's Chair -
@@ -94,7 +97,7 @@ The dimensions of the peetham increased this summer (2019) when padding was adde
   * Width side-to-side: 52.5 inches
   * Length front-to-back: 43.5 inches
 
-With the added padding, I estimate the new dimensions are approximately:
+With the added padding, the new dimensions are very roughly:
   * Height: 14.5
   * Width side-to-side: 54 inches
   * Length front-to-back: 45 inches
