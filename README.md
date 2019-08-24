@@ -56,7 +56,9 @@ Block combinations -
   * Two large blocks = 3 inches
   * Two large plus one small = 3.75 inches
   * Stiletto block = 4.5 inches
-  * Stiletto block plus one small = 5.25 inches (I don't remember going this high.)
+  * Stiletto block plus one small = 5.25 inches 
+  * Higher than this is not recommended to instability
+
 
 ![chair blocks, increments 1, 2, and 3](/images/chair_blocks_1.jpg)
 ![chair blocks, increments 4, 5, and 6](/images/chair_blocks_2.jpg)
@@ -159,33 +161,61 @@ Below is the current version of the darshan fan for Amma. This fan often becomes
 [Search for Hunter fans on Amazon](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dgarden&field-keywords=hunter+stand+fan)
 
 ### Other fans
+
 During Devi Bhava, the darshan hall may become very hot and then we need two more fans on the stage, which means a total of four fans. These additional fans are positioned to cool off those coming for darshan. These fans don't need to be as tall as the main darshan fans. 
 
 As of summer tour 2019, the tour trucks bring all four fans for the stage. However fans occasionally break down or get lost or borrowed. Or there may be a surprise request for a fan. So it is wise, but not required, for each city to bring two good fans to the program hall.
 
+## Electrical power
+
+### Safety instructions directly from Amma -
+
+  * Do not put cords or electrical boxes under the stage
+  * Everything accessible
+  * Everything labelled
+  * Everything neat and tidy
+  * Use high quality fittings and equipment
+  * Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
+
+### Power needs for Stage and vicinity
+
+  * Stage - Darshan fans, heater, decorative lights on backdrop and altar - Total amps?
+  * Sound system - Total amps?
+  * Video projectors - Total amps?
+  * Lighting - Amrita TV - How many lights? Total amps?
+  * Security table - Total amps?
+  * Coffee tent - Expresso machine etc. Total amps? Two circuits is enough.
+  * Hall supplies table - How many hot water kettles? Total amps? One circuit is enough as long as irons are plugged in elsewhere. 
+  * Ironing - How many irons? Total amps?
+  * Steamers - During DB setup. How many? Total amps? 
+
 ## Stage
+
+Once the stage is set up, it is virtually impossible to reposition it. Therefore always check with tour coordinators for current requirements for stage length, width, height, and clearance behind the stage. Requirements can change at any time.
 
 ### Size and Height of stage
 
-Ask Amrita Priya for the current recommended size and height for the stage. Sometimes the hotel has a certain size stage and that's what we get.
-
 In 2018, the most common stage size was 32 feet wide and 24 feet front to back. The front-to-back measurement is the most critical. In 2019, the stages were often less than 24 feet front-to-back. In that case, there is barely enough room on the stage for the Devi bhava temple. This is becoming the new normal. 
 
-The height of the stage should be around 36 inches (not sure, check with AP). 
+The height of the stage should be around 36 inches. Sometimes the hotel has a certain size stage and that's what we get. The stage should be centered in the hall. 
 
-The stage should be centered in the hall. Once the stage is set up, it is virtually impossible to reposition it.
+### Clearance behind the stage
 
-### Extra space behind the stage
-
-Check with Amrita Priya for the current requirement. 
-
-Normally there should be about 9 or 10 feet between the back of the stage and the back wall of the darshan hall. This provides enough room to set up Amma's "side room" in that area. The room is about 6 feet 6 inches wide (not sure). Also we prefer to have additional space for access behind the stage so that people can walk through. However, when the hall is small, we may eliminate this access so that we can squeeze in another row of chairs in the hall. 
+Normally there should be about 9 or 10 feet between the back of the stage and the back wall of the darshan hall. This provides enough room to set up Amma's "side room" in that area. (See below for dimensions of the side room). Also we prefer to have additional space for access behind the stage so that people can walk through. However, when the hall is small, we may eliminate this access so that we can squeeze in another row of chairs in the hall. 
 
 ### Levelness and stability of hotel stages
 
 At some venues, the stage may shift when people walk on it because the sections are not firmly fastened together. If the stage is too shaky, the connections between the sections should be tightened. This involves figuring out how the sections are designed to lock together. And then finding a way to fix it, including crawling underneath and maybe tightening connections with a wrench. 
 
 In addition, the stage may be uneven due to sections being at slightly different heights. This can be remedied by installing shims which involves lifting the stage and inserting the shims.
+
+## Amma's side room
+
+For every program, we need to provide a resting room for Amma (known as the "side room" or "Amma's room") in case She wants a break. On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight and can be transported with minimal damage. 
+
+For programs at one location, you don't need such an expensive version. For Amma's programs in Michigan, they have a simpler solution. They built a structure from foam insulation sheets purchased at Home Depot. These are extruded polystyrene (XPS), measure 4 feet by 8 feet by 2 inches thick, and are typically pink.
+
+Regardless of the type of construction, the inside of the room should measure about 6 feet by 9 feet, with an interior height of 6.5 feet (estimated dimensions, need to check).
 
 ## Stage carpets
 
@@ -205,7 +235,7 @@ We recommend carpets that are some shade of red or ruby. Other colors may also b
 
 Most commonly the thickness of the red carpets is "30 ounce". A thinner carpet may be sufficient, and is definitely less expensive and easier to transport and store. However if the carpet is too thin, it may become wrinkled right in front of Amma's chair during darshan which is a safety hazard. Also thin carpets may wear out quickly.
 
-### TMI - Experiment with thin black carpets -
+### TLDR - Experiment with thin black carpets -
 
 In 2015 at the DC programs, the stage was covered with a thin black carpet. The carpet came included with the rented stage. On top of the black carpet, I simply taped the darshan carpets, the nicer ones that go under and around Amma's chair. Due to black color and reduced thickness, I expected complaints but never heard any. 
 
@@ -215,7 +245,13 @@ These carpets didn't get wrinkled during four programs over two days, probably d
 
 ![Black stage carpets - DC 2015](/images/stage_w_black_carpet.jpg)
 
-## Devi Bhava setup
+## Stage Lighting
+
+Typically the lighting provided by the hotel or other venue is adequate but may be supplemented with lights provided by Amrita TV. I don't know anything about these lights except where the on/off switch is.
+
+## Devi Bhava Temple
+
+### Setting up the Temple!
 
 ![Setting up the temple](/images/Devi_bhava_setup.jpg)
 
