@@ -46,7 +46,7 @@ Block combinations -
   * Two large plus one small = 3.75 inches
   * Stiletto block = 4.5 inches
   * Stiletto block plus one small = 5.25 inches 
-  * Higher than this is not recommended to instability
+  * Higher than this is not recommended due to instability
 
 
 ![chair blocks, increments 1, 2, and 3](/images/chair_blocks_1.jpg)
@@ -200,28 +200,15 @@ In 2018, the most common stage size was 32 feet wide and 24 feet front to back. 
 Also the stage should be centered in the hall.
 
 ### Clearance behind the stage
-Normally there should be about 9 or 10 feet between the back of the stage and the back wall of the darshan hall. This provides enough room to set up Amma's "side room" plus some additional space. (For dimensions of the side room, see below). The additional space allows access behind the stage so that people can walk through. However, when the hall is small, we may eliminate this access so that we can squeeze another row of chairs into the hall. 
+Normally there should be about 9 or 10 feet between the back of the stage and the back wall of the darshan hall. This provides enough room to set up Amma's "side room" plus some additional space. (For dimensions of the side room, see other section). The additional space allows access behind the stage so that people can walk through. However, when the hall is small, we may eliminate this access so that we can squeeze another row of chairs into the hall. 
 
 ### Levelness and stability of hotel stages
 At some venues, the stage may creak and shift as people walk on it. This is usually because the sections are not firmly fastened together. If it's really bad, the connections between the sections should be tightened. This involves figuring out how the sections are designed to lock together. And then finding a way to fix it, including crawling underneath and maybe tightening connections with a wrench or shims. 
 
 In addition, the stage may be uneven due to sections being at slightly different heights. This can be remedied by installing shims which involves lifting the stage and inserting the shims.
 
-## Amma's side room
-For every program, we need to provide a resting room for Amma in case She wants a break. This room is known as the "side room" or "Amma's room". the inside of the room should measure about 6 feet by 9 feet, with an interior height of 6.5 feet (estimated dimensions, need to check). Also the room needs to be made of material that blocks most sound.
-
-On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight, easy to assemble, and can be transported with minimal damage.
-
-### Easier cheaper alternative side room
-For a room that doesn't have to transported constantly between venues, a simpler less expensive solution is preferred. A good example is the room they use at Amma's programs in Michigan. They built this structure out of foam insulation sheets purchased at Home Depot. The room consists of sheets that are taped together. 
-
-The sheets are extruded polystyrene (XPS), and are 4 feet by 8 feet by 2(?) inches thick. It is extremely lightweight and seems to block the sound well enough.
-
-### Furnishings for the side room
-The room should be nicely fixed up including a nice carpet, lighting, and a small table (check dimensions). Ask Hansa for details.
-
 ## Stage carpets
-Each city is required to provide stage carpets ("the red carpets"). This includes installing and taping the carpets onto the stage. The carpets should be on the stage before the trucks arrive. Arranging and taping the carpets takes hours. It requires about 8 rolls of 3 inch red gaffers tape. The amount of tape depends on the size of stage and the number and size of carpet sections.
+Each city is required to provide stage carpets ("the red carpets"). This includes installing and taping the carpets onto the stage. The carpets should be on the stage before the trucks arrive. Arranging and taping the carpets takes hours. Taping is explained in more detail below.
 
 The red carpets are the base layer. Nicer fancier carpets are taped on top of them in the area under and around Amma's chair. 
 
@@ -246,11 +233,36 @@ These carpets didn't get wrinkled during four programs over two days, probably d
 
 ![Black stage carpets - DC 2015](/images/stage_w_black_carpet.jpg)
 
-### Taping the carpets
-Need to make a video
+## Gaffers tape and taping the stage
+For each venue, the local devotees need to provide tape for taping the carpets to the stage. To tape the stage requires about 8 rolls of 3 inch red gaffers tape. The number of rolls varies depending on the size of the stage and the number and size of carpet sections. More tape will be required if the stage is large or if the carpets are smaller and more numerous. 
+
+Besides the first 8 rolls of tape, if the stage needs to be re-taped for any reason,more gaffers tape will be needed. For example, sometimes due to scheduling conflicts, the program needs to be relocated from one ballroom to another. This requires setting up the stage all over again including re-taping which takes 8 more rolls of tape. Another example is when the carpet becomes wrinkled during darshan. Then some of the carpets need to be re-taped. The number of rolls depends on the extent of the problem. If the stage needs to be made smaller larger, such as during Devi bhava setup, more rolls of tape will be needed.
+
+The tape must be Pro Gaff brand and 3 inches wide and RED. Other brands are not acceptable due prior experience of tape residue embedding into the carpets.
+
+[Good place to buy red gaffers tape](http://www.thetapeworks.com/tape/index.php?main_page=product_info&products_id=67)
+
+The local devotees also need to provide 2 rolls of 1 inch wide Pro Gaff brand gaffers tape for marking the darshan lines. This is for Hansa. It has to be Pro Gaff brand and 1 inch wide and white. Other brands are not acceptable.
+ 
+[Good place to buy white gaffers tape for darshan lines](http://www.thetapeworks.com/tape/index.php?main_page=product_info&products_id=42)
+
+This does not include tape for other purposes such as taping the skirt on the front of the stage or taping electrical wires. 
+
+## Amma's side room
+For every program, we need to provide a resting room for Amma in case She wants a break. This room is known as the "side room" or "Amma's room". The interior of the room should measure about 6 feet by 9 feet, with an interior height of 6.5 feet (estimated dimensions, need to check). Also the room needs to be made of material that blocks most sound.
+
+On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight, easy to assemble, and can be transported with minimal damage.
+
+### Cheaper version of side room
+For a room that doesn't have to transported constantly between venues, a simpler less expensive solution is preferred. A good example is the room they use at Amma's programs in Michigan. They built this structure out of foam insulation panels purchased at Home Depot. The room consists of panels that are cut to size and taped together. 
+
+The panels are extruded polystyrene (XPS) and are typically pink. The panels are 2 (or 3?) inches thick, 4 feet wide, and 8 feet long. They are extremely lightweight and seem to block the sound well enough.
+
+### Furnishings for side room
+The room should be nicely fixed up including a nice carpet, lighting, and a small table (check dimensions). Check with Hansa for details.
 
 ## Stage Lighting
-Typically the lighting provided by the hotel or other venue is adequate but may be supplemented with lights provided by Amrita TV. I don't know anything about these lights except where the on/off switch is.
+Typically the lighting provided by the hotel or other venue is adequate but may be supplemented with lights provided by Amrita TV. For information about these lights, contact Amrita TV.
 
 ## Devi Bhava
 ### Setting up the Temple!
