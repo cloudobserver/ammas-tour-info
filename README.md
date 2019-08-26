@@ -1,36 +1,25 @@
-# Amma's tour equipment
+# Amma's Tour Equipment
 
 ## Amma's Chair - All set up and ready 2015
 
 ![Darshan setup for Amma](/images/ready_for_darshan_SR_6_11_15.jpg)
 
-## Amma's Chair
+## Amma's Chair - Dimensions
 Amma's darshan chair is constructed of pine, at least that's my guess.
 
 Some of these photos (the ones in which there is blue tape on the armrests) are from 2007 so some changes have occurred since then: 
   * Armrests are now lower.
   * Foot cushion holder has been rebuilt although critical dimensions probably haven't changed much. 
 
-### Front view -
 ![Ammas chair front view](/images/chair_1.jpg)
-
-### Front view at slight angle -
 ![Ammas chair front view, diagonal](/images/chair_2.jpg)
-
-### Side view -
 ![Ammas chair side view](/images/chair_3.jpg)
-
-### Side view at angle -
 ![Ammas chair side view at slight angle](/images/chair_6.jpg)
-
-### Back view -
 ![Amma's chair back view](/images/chair_5.jpg)
-
-### Front view with foot cushion -
 ![Amma's chair foot cushion](/images/chair_7.jpg)
 
-## Amma's Chair - Armrests
-### The next two photos show the armrests at the current height (2019).
+### Amma's Chair - Armrests
+The next two photos show the armrests at the current height (2019).
 
 ![Amma's chair armrests with sitting cushion](/images/chair_recent_1.jpg)
 ![Amma's chair armrests without sitting cushion](/images/chair_recent_2.jpg)
@@ -44,8 +33,8 @@ The height of the darshan table today is higher than shown in this old photo. Th
 
 ![darshan table](/images/darshan_table.jpg)
 
-## Chair Blocks for Amma's Chair -
-The chair blocks are placed under the feet of the chair to adjust the height of the chair during darshan according to Amma's instructions. These photos show the various combinations of blocks that we use to achieve various chair heights. 
+## Chair Blocks -
+The chair blocks are placed under the feet of Amma's chair to adjust the height. These photos show the various combinations of blocks that we use to achieve various chair heights. 
 
 The small brown block adds 0.75 inch. Each of the larger yellow blocks adds 1.5 inches. 
 
@@ -64,12 +53,11 @@ Block combinations -
 ![chair blocks, increments 4, 5, and 6](/images/chair_blocks_2.jpg)
 
 ## Notes about the Chair Cushion and Foot Cushions
-
 Dimensions of Amma's chair cushion -
   * Inches - 23.75 by 35.5 by 2
   * Centimeters - 60.3 by 90.2 by 5.1
 
-The firmness of the chair cushion (the surface that Amma sits on) is very important but there is no standard way to quantify the firmness. We have cushions that Amma seems to like but this type of foam isn’t available any more. So far, we have not found foam of equivalent firmness.
+The firmness of the chair cushion (the surface that Amma sits on) is very important but there is no standard way to quantify the firmness. We have a couple chair cushions that Amma seems to like but they are made from a type of foam that isn’t available any more. So far, we have not found foam of equivalent firmness.
 
 When sitting in Her darshan chair, Amma's feet are resting on one or more foot cushions. These cushions are quite firm and are constructed from layers of blue foam. The blue foam comes from camping pads that we buy at Walmart. When the height of the chair is adjusted, it is likely that the foot cushions will also be adjusted soon after. This is achieved by adding or removing a "riser", a foot cushion about one inch thick or less. 
 
@@ -90,7 +78,7 @@ These notes about the chair coverings may be outdated so check with Hansa for cu
 ![chair cloth notes](/images/chair_cloth_notes.jpg)
 
 ## Flower Basket for Amma's Chair -
-The flower basket is attached to the shelf with magnets and is adjustable. The shelf attaches to the chair with bolts. The flower basket should be positioned as far forward as possible. This makes it easier for Amma to grab flower petals.
+The flower basket is attached to the shelf with magnets and is adjustable. The shelf attaches to the chair with bolts. The flower basket should be positioned as far forward on the shelf as possible. This makes it easier for Amma to grab flower petals.
 
 ![flower basket](/images/flower_basket.jpg)
 ![flower basket in position on the chair](/images/flower_basket_in_place.jpg)
@@ -137,6 +125,42 @@ Dimensions of backrest piece -
 ## Swami's Table -
 ![swamis table](/images/swamis_table.jpg)
 
+## Electrical power
+### Safety instructions - given by Amma
+  * Do not put cords or electrical boxes under the stage
+  * Everything accessible
+  * Everything labelled
+  * Everything neat and tidy
+  * Use high quality fittings and equipment
+  * Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
+
+### Power needs for Stage and vicinity
+  * Stage - Darshan fans, heater, decorative lights on backdrop and altar - Total amps?
+  * Sound system - Total amps?
+  * Massive video screen on back of stage - Total amps?
+  * Video projectors, one on each side of the stage - Total amps?
+  * Lighting - Amrita TV - How many lights? Total amps?
+  * Security table - Total amps?
+  * Coffee tent - Espresso machine etc. Total amps? Two circuits is enough.
+  * Hall supplies table - How many hot water kettles? Total amps? One circuit is enough as long as irons are plugged in elsewhere. 
+  * Ironing - How many irons? Total amps?
+  * Steamers - During DB setup. How many? Total amps? 
+  * Devi Bhava temple - Lights - Total amps?
+
+## Stage heater for Amma
+* Optimus H-5511 Infrared Quartz Radiant Heater
+
+![stage heater for Amma](/images/stage_heater.jpg)
+
+This heater was really good for years. However the ones purchased recently are not reliable. They may work sporadically and then stop completely after less than a month. So we want to find a better heater.
+
+Characteristics of a good stage heater
+  * Small
+  * Unobtrusive
+  * Must be very quiet because it will be right next to Amma during meditation
+  * Must give 
+  * Usually radiant heaters more suitable than other types 
+
 ## Fans
 ### Main darshan fans
 During darshan, we always have two fans near Amma, one on each side. During Amma's summer tour, these fans are carried on the tour trucks and used in every city. The fans might not be turned on but we keep them in position, ready in case Amma asks for them. 
@@ -146,11 +170,11 @@ Characteristics of a good darshan fan for Amma
   * Creates strong blast of air
   * Not too noisy
   * Solidly built – Fans made of metal are far superior to plastic ones. Plastic fans tend to break. 
-  * Height of fan – 56 inches (need to check if this is current). The fan should be high enough to blow over the people doing prasad seva. 
+  * Height of fan – 56 inches (need to check). The fan should be high enough to blow over the people doing prasad seva. 
   * Size of fan housing (cage that covers blades) – 16 inches
   * Fans that are too large are not appropriate.
 
-Below is the current version of the darshan fan for Amma. This fan often becomes unavailable for long periods. Initially the fan is too short and needs to be modified to be taller.
+Below is the preferred fan to use for Amma during darshan. This fan often becomes unavailable and out of stock for long periods. Initially the fan is too short and needs to be modified to be taller.
 
 [Recommended – Hunter 90438 16” RETRO Stand Fan with brushed nickel finish](https://www.amazon.com/Hunter-90438-Brushed-Nickel-Finish/dp/B00ZA20AY4/ref=sr_1_3?keywords=hunter+stand+fan&qid=1566354803&s=home-garden&sr=1-3)
 
@@ -161,82 +185,59 @@ Below is the current version of the darshan fan for Amma. This fan often becomes
 [Search for Hunter fans on Amazon](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dgarden&field-keywords=hunter+stand+fan)
 
 ### Other fans
-
 During Devi Bhava, the darshan hall may become very hot and then we need two more fans on the stage, which means a total of four fans. These additional fans are positioned to cool off those coming for darshan. These fans don't need to be as tall as the main darshan fans. 
 
-As of summer tour 2019, the tour trucks bring all four fans for the stage. However fans occasionally break down or get lost or borrowed. Or there may be a surprise request for a fan. So it is wise, but not required, for each city to bring two good fans to the program hall.
-
-## Electrical power
-
-### Safety instructions directly from Amma -
-
-  * Do not put cords or electrical boxes under the stage
-  * Everything accessible
-  * Everything labelled
-  * Everything neat and tidy
-  * Use high quality fittings and equipment
-  * Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
-
-### Power needs for Stage and vicinity
-
-  * Stage - Darshan fans, heater, decorative lights on backdrop and altar - Total amps?
-  * Sound system - Total amps?
-  * Video projectors - Total amps?
-  * Lighting - Amrita TV - How many lights? Total amps?
-  * Security table - Total amps?
-  * Coffee tent - Expresso machine etc. Total amps? Two circuits is enough.
-  * Hall supplies table - How many hot water kettles? Total amps? One circuit is enough as long as irons are plugged in elsewhere. 
-  * Ironing - How many irons? Total amps?
-  * Steamers - During DB setup. How many? Total amps? 
+As of summer tour 2019, the tour trucks bring all four fans for the stage. However fans occasionally break down or get lost or borrowed. Or there may be a surprise request for a fan or two. So it is wise, but not required, for each city to bring two good fans to the program hall.
 
 ## Stage
-
 Once the stage is set up, it is virtually impossible to reposition it. Therefore always check with tour coordinators for current requirements for stage length, width, height, and clearance behind the stage. Requirements can change at any time.
 
+Sometimes the hotel has a limited amount of stage sections that are included in the rates and so we may have to accept that.
+
 ### Size and Height of stage
+In 2018, the most common stage size was 32 feet wide and 24 feet front to back. Typically the stage height was 36 inches. In 2019, the stages were similar except that the front-to-back distance was often less. This measurement is the most critical because, as it decreases below 24 feet, it becomes increasingly difficult to fit the Devi bhava temple on the stage.
 
-In 2018, the most common stage size was 32 feet wide and 24 feet front to back. The front-to-back measurement is the most critical. In 2019, the stages were often less than 24 feet front-to-back. In that case, there is barely enough room on the stage for the Devi bhava temple. This is becoming the new normal. 
-
-The height of the stage should be around 36 inches. Sometimes the hotel has a certain size stage and that's what we get. The stage should be centered in the hall. 
+Also the stage should be centered in the hall.
 
 ### Clearance behind the stage
-
-Normally there should be about 9 or 10 feet between the back of the stage and the back wall of the darshan hall. This provides enough room to set up Amma's "side room" in that area. (See below for dimensions of the side room). Also we prefer to have additional space for access behind the stage so that people can walk through. However, when the hall is small, we may eliminate this access so that we can squeeze in another row of chairs in the hall. 
+Normally there should be about 9 or 10 feet between the back of the stage and the back wall of the darshan hall. This provides enough room to set up Amma's "side room" plus some additional space. (For dimensions of the side room, see below). The additional space allows access behind the stage so that people can walk through. However, when the hall is small, we may eliminate this access so that we can squeeze another row of chairs into the hall. 
 
 ### Levelness and stability of hotel stages
-
-At some venues, the stage may shift when people walk on it because the sections are not firmly fastened together. If the stage is too shaky, the connections between the sections should be tightened. This involves figuring out how the sections are designed to lock together. And then finding a way to fix it, including crawling underneath and maybe tightening connections with a wrench. 
+At some venues, the stage may creak and shift as people walk on it. This is usually because the sections are not firmly fastened together. If it's really bad, the connections between the sections should be tightened. This involves figuring out how the sections are designed to lock together. And then finding a way to fix it, including crawling underneath and maybe tightening connections with a wrench or shims. 
 
 In addition, the stage may be uneven due to sections being at slightly different heights. This can be remedied by installing shims which involves lifting the stage and inserting the shims.
 
 ## Amma's side room
+For every program, we need to provide a resting room for Amma in case She wants a break. This room is known as the "side room" or "Amma's room". the inside of the room should measure about 6 feet by 9 feet, with an interior height of 6.5 feet (estimated dimensions, need to check). Also the room needs to be made of material that blocks most sound.
 
-For every program, we need to provide a resting room for Amma (known as the "side room" or "Amma's room") in case She wants a break. On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight and can be transported with minimal damage. 
+On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight, easy to assemble, and can be transported with minimal damage.
 
-For programs at one location, you don't need such an expensive version. For Amma's programs in Michigan, they have a simpler solution. They built a structure from foam insulation sheets purchased at Home Depot. These are extruded polystyrene (XPS), measure 4 feet by 8 feet by 2 inches thick, and are typically pink.
+### Easier cheaper alternative side room
+For a room that doesn't have to transported constantly between venues, a simpler less expensive solution is preferred. A good example is the room they use at Amma's programs in Michigan. They built this structure out of foam insulation sheets purchased at Home Depot. The room consists of sheets that are taped together. 
 
-Regardless of the type of construction, the inside of the room should measure about 6 feet by 9 feet, with an interior height of 6.5 feet (estimated dimensions, need to check).
+The sheets are extruded polystyrene (XPS), and are 4 feet by 8 feet by 2(?) inches thick. It is extremely lightweight and seems to block the sound well enough.
+
+### Furnishings for the side room
+The room should be nicely fixed up including a nice carpet, lighting, and a small table (check dimensions). Ask Hansa for details.
 
 ## Stage carpets
-
-Each city is required to provide stage carpets (aka "the red carpets"). This includes installing and taping the carpets onto the stage. The carpets should be on the stage before the trucks arrive. Arranging and taping the carpets takes hours. It requires about 8 rolls of 3 inch red gaffers tape. The amount of tape depends on the size of stage and the number of carpet sections.
+Each city is required to provide stage carpets ("the red carpets"). This includes installing and taping the carpets onto the stage. The carpets should be on the stage before the trucks arrive. Arranging and taping the carpets takes hours. It requires about 8 rolls of 3 inch red gaffers tape. The amount of tape depends on the size of stage and the number and size of carpet sections.
 
 The red carpets are the base layer. Nicer fancier carpets are taped on top of them in the area under and around Amma's chair. 
+
+In most cases, the red carpets have a knap which means that the tiny strands in the carpet are all oriented in a certain direction. When the red carpets are oriented with the knap running in the correct direction, the second layer of carpets will tend to remain flat and not wrinkle. It's hard to explain so I need to make a video.
 
 ![Stage with carpets in place - LA](/images/red_carpets_LA_2015.jpg)
 ![Stage with carpets in place - Everett](/images/red_carpets_everett.jpg)
 ![Stage with carpets in place - Chicago](/images/red_carpets_chicago.jpg)
 
 ### Color
-
 We recommend carpets that are some shade of red or ruby. Other colors may also be acceptable. Each city can select the color and thickness of the carpet. 
 
 ### Thickness
-
-Most commonly the thickness of the red carpets is "30 ounce". A thinner carpet may be sufficient, and is definitely less expensive and easier to transport and store. However if the carpet is too thin, it may become wrinkled right in front of Amma's chair during darshan which is a safety hazard. Also thin carpets may wear out quickly.
+In most cases, the thickness of the red carpets is "30 ounce". A thinner carpet may be sufficient, and is definitely less expensive and easier to transport and store. However if the carpet is too thin, it may become wrinkled in front of Amma's chair during darshan which is a safety hazard. Also thin carpets may wear out quickly.
 
 ### TLDR - Experiment with thin black carpets -
-
 In 2015 at the DC programs, the stage was covered with a thin black carpet. The carpet came included with the rented stage. On top of the black carpet, I simply taped the darshan carpets, the nicer ones that go under and around Amma's chair. Due to black color and reduced thickness, I expected complaints but never heard any. 
 
 These black carpets were 12 feet wide in continuous pieces across the stage (32 feet) with quite a bit of overlap and were taped to the stage. Using large pieces of carpet (12 feet by 32 feet) is a huge advantage because much less gaffers tape is needed, saving money.
@@ -245,19 +246,22 @@ These carpets didn't get wrinkled during four programs over two days, probably d
 
 ![Black stage carpets - DC 2015](/images/stage_w_black_carpet.jpg)
 
-## Stage Lighting
+### Taping the carpets
+Need to make a video
 
+## Stage Lighting
 Typically the lighting provided by the hotel or other venue is adequate but may be supplemented with lights provided by Amrita TV. I don't know anything about these lights except where the on/off switch is.
 
-## Devi Bhava Temple
-
+## Devi Bhava
 ### Setting up the Temple!
 
 ![Setting up the temple](/images/Devi_bhava_setup.jpg)
 
 ### Steaming the curtains
-
 ![Steaming the curtains](/images/steaming_curtains.jpg)
+
+### Water tables for Atma Puja
+Need a photo
 
 ## Link to Flickr 
 [A few more photos, mostly out-dated](http://www.flickr.com/photos/8931306@N04/)
