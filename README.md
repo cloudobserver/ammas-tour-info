@@ -27,6 +27,26 @@ The next two photos show the armrests at the current height (2019).
 This old photo (below) shows armrests that are about 3.5 inches higher than on today's chair. The chair Amma uses in Michigan has armrests at this higher position.
 
 ![Amma's chair armrest](/images/chair_4.jpg)
+![Amma's chair armrest](/images/chair_4.jpg)
+
+### Amma's Chair - Carvings
+
+![Amma's chair carvings](/images/chair_carving.jpg)
+
+### Amma's Chair - Technical Drawings and Sketches
+
+The following drawings were made in 2000 so some modifications have occurred since then. The photos (above) are somewhat more recent.
+
+1. [Armrests](/images/chair_drawings/1_armrests.jpg)
+2. [Leg units](/images/chair_drawings/2_leg_units.jpg)
+2. [Horizontal supports](/images/chair_drawings/3_horizontal_supports.jpg)
+2. [Seat top](/images/chair_drawings/4_seat_top.jpg)
+2. [Seat bottom](/images/chair_drawings/5_seat_bottom.jpg)
+2. [Chair back](/images/chair_drawings/6_chair_back.jpg)
+2. [Foam cushions](/images/chair_drawings/7_foam_cushions.jpg)
+2. [Hardware](/images/chair_drawings/8_hardware.jpg)
+3. [Sketch - Front view](/images/chair_drawings/sketch_front_view.jpg)
+2. [Sketch - Side view](/images/chair_drawings/sketch_side_view.jpg)
 
 ## Darshan Table -
 The height of the darshan table today is higher than shown in this old photo. The current darshan table is about 3.5 or 4 inches higher. Need to check.
@@ -52,7 +72,7 @@ Block combinations -
 ![chair blocks, increments 1, 2, and 3](/images/chair_blocks_1.jpg)
 ![chair blocks, increments 4, 5, and 6](/images/chair_blocks_2.jpg)
 
-## Notes about the Chair Cushion and Foot Cushions
+## Chair Cushion and Foot Cushions
 Dimensions of Amma's chair cushion -
   * Inches - 23.75 by 35.5 by 2
   * Centimeters - 60.3 by 90.2 by 5.1
@@ -100,6 +120,8 @@ Estimated new dimensions 2019, increased due to additional padding -
   * Width side-to-side: 54 inches
   * Length front-to-back: 45 inches
 
+### Photos of Amma's peetham - prior to 2019
+
 ![peetham with skirt](/images/peetham_1.jpg)
 ![peetham without skirt](/images/peetham_2.jpg)
 
@@ -124,6 +146,15 @@ Dimensions of backrest piece -
 
 ## Swami's Table -
 ![swamis table](/images/swamis_table.jpg)
+
+## Amma's Bhajan Book Stand - 2006
+
+![book stand front view](/images/book_stand/stand_front_angle.jpg)
+  * [Front view](/images/book_stand/stand_front.jpg)
+  * [Front view at angle](/images/book_stand/stand_front_angle_2.jpg)
+  * [Side view](/images/book_stand/stand_side.jpg)
+  * [Side view at angle](/images/book_stand/stand_back_angle.jpg)
+  * [Back view](/images/book_stand/stand_back.jpg)
 
 ## Electrical power
 ### Safety instructions - given by Amma
@@ -229,20 +260,20 @@ In 2015 at the DC programs, the stage was covered with a thin black carpet. The 
 
 These black carpets were 12 feet wide in continuous pieces across the stage (32 feet) with quite a bit of overlap and were taped to the stage. Using large pieces of carpet (12 feet by 32 feet) is a huge advantage because much less gaffers tape is needed, saving money.
 
-These carpets didn't get wrinkled during four programs over two days, probably due to being larger pieces and due to having a large number of chairs holding it in place.
+These carpets didn't get wrinkled during four programs over two days, probably due to being larger pieces and due to having a large number of chairs holding them in place.
 
 ![Black stage carpets - DC 2015](/images/stage_w_black_carpet.jpg)
 
 ## Gaffers tape and taping the stage
-For each venue, the local devotees need to provide tape for taping the carpets to the stage. To tape the stage requires about 8 rolls of 3 inch red gaffers tape. The number of rolls varies depending on the size of the stage and the number and size of carpet sections. More tape will be required if the stage is large or if the carpets are smaller and more numerous. 
+For each venue, the local devotees need to provide tape for taping the carpets to the stage. To tape the stage requires about 8 rolls of 3 inch red gaffers tape, "Pro Gaff" brand. More rolls of tape will be required if the stage is large or if the carpets are smaller and more numerous. 
 
-Besides the first 8 rolls of tape, if the stage needs to be re-taped for any reason,more gaffers tape will be needed. For example, sometimes due to scheduling conflicts, the program needs to be relocated from one ballroom to another. This requires setting up the stage all over again including re-taping which takes 8 more rolls of tape. Another example is when the carpet becomes wrinkled during darshan. Then some of the carpets need to be re-taped. The number of rolls depends on the extent of the problem. If the stage needs to be made smaller larger, such as during Devi bhava setup, more rolls of tape will be needed.
+Besides the first 8 rolls, if the stage needs to be re-taped for any reason, more tape will be needed. For example, if the program needs to be relocated from one ballroom to another, the stage will need to be set up and re-taped again, which takes 8 more rolls of tape. Another example is when the carpet becomes wrinkled during darshan. Then some of the carpets need to be re-taped. The amount of tape depends on the extent of the problem. If the stage needs to be made smaller, such as when setting up for Devi bhava, some re-taping will be necessary, thus more tape will be needed.
 
-The tape must be Pro Gaff brand and 3 inches wide and RED. Other brands are not acceptable due prior experience of tape residue embedding into the carpets.
+The gaffers tape must be "Pro Gaff" brand and 3 inches wide and RED. Other brands are not acceptable due prior experience of tape residue embedding into the carpets.
 
 [Good place to buy red gaffers tape](http://www.thetapeworks.com/tape/index.php?main_page=product_info&products_id=67)
 
-The local devotees also need to provide 2 rolls of 1 inch wide Pro Gaff brand gaffers tape for marking the darshan lines. This is for Hansa. It has to be Pro Gaff brand and 1 inch wide and white. Other brands are not acceptable.
+The local devotees also need to provide 2 rolls of 1 inch wide "Pro Gaff" brand gaffers tape for marking the darshan lines. This is for Hansa. It has to be "Pro Gaff" brand and 1 inch wide and white. Other brands are not acceptable.
  
 [Good place to buy white gaffers tape for darshan lines](http://www.thetapeworks.com/tape/index.php?main_page=product_info&products_id=42)
 
@@ -254,12 +285,12 @@ For every program, we need to provide a resting room for Amma in case She wants 
 On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight, easy to assemble, and can be transported with minimal damage.
 
 ### Cheaper version of side room
-For a room that doesn't have to transported constantly between venues, a simpler less expensive solution is preferred. A good example is the room they use at Amma's programs in Michigan. They built this structure out of foam insulation panels purchased at Home Depot. The room consists of panels that are cut to size and taped together. 
+For a room that doesn't need to be transported constantly between venues, a simpler less expensive solution is preferred. A good example is the room they use at Amma's programs in Michigan. They built this structure out of foam insulation panels purchased at Home Depot. The room consists of panels that are cut to size and taped together. 
 
 The panels are extruded polystyrene (XPS) and are typically pink. The panels are 2 (or 3?) inches thick, 4 feet wide, and 8 feet long. They are extremely lightweight and seem to block the sound well enough.
 
 ### Furnishings for side room
-The room should be nicely fixed up including a nice carpet, lighting, and a small table (check dimensions). Check with Hansa for details.
+The room should be furnished with a nice carpet, lighting, and a small table (check dimensions). Check with Hansa for details.
 
 ## Stage Lighting
 Typically the lighting provided by the hotel or other venue is adequate but may be supplemented with lights provided by Amrita TV. For information about these lights, contact Amrita TV.
@@ -275,5 +306,7 @@ Typically the lighting provided by the hotel or other venue is adequate but may 
 ### Water tables for Atma Puja
 Need a photo
 
-## Link to Flickr 
-[A few more photos, mostly out-dated](http://www.flickr.com/photos/8931306@N04/)
+## Miscellaneous
+[Drawing - Dimensions of Amma's back jack 2012](/images/other_drawings/back_jack.jpg)
+
+[A few more photos on Flickr, mostly out-dated](http://www.flickr.com/photos/8931306@N04/)
