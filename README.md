@@ -1,9 +1,7 @@
 # Amma's Tour Equipment
 
 ## Table of Contents
-* [Amma's Chair - Dimensions](#ammas-chair---dimensions)
-* [Amma's Chair - Armrests](#ammas-chair---armrests)
-* [Amma's Chair - Carvings](#ammas-chair---carvings)
+* [Amma's Chair](#ammas-chair---dimensions)
 * [Amma's Chair - Technical Drawings and Sketches](#ammas-chair---technical-drawings-and-sketches)
 * [Darshan Table](#darshan-table)
 * [Chair Blocks](#chair-blocks)
@@ -26,12 +24,13 @@
 * [Devi Bhava](#devi-bhava)
 * [Miscellaneous](#miscellaneous)
  
-Amma's Chair - All set up and ready 2015
+Amma's Chair - All set up and ready 2015 -
 
 ![Darshan setup for Amma](/images/ready_for_darshan_SR_6_11_15.jpg)
 
-## Amma's Chair - Dimensions
-Amma's darshan chair is constructed of pine, at least that's my guess.
+## Amma's Chair
+### Dimensions
+Amma's darshan chair is constructed of pine, at least that's my guess. The chair can be disassembled and packed in a box for transporting between tour stops.
 
 Some of these photos (the ones in which there is blue tape on the armrests) are from 2007 so some changes have occurred since then: 
   * Armrests are now lower.
@@ -59,7 +58,7 @@ This old photo (below) shows armrests that are about 3.5 inches higher than on t
 
 ![Amma's chair carvings](/images/chair_carving.jpg)
 
-### Amma's Chair - Technical Drawings and Sketches
+## Amma's Chair - Technical drawings and sketches
 
 The following drawings were made in 2000 so some modifications have occurred since then. The photos (above) are somewhat more recent.
 
@@ -209,7 +208,7 @@ Dimensions of backrest piece -
 
 ![stage heater for Amma](/images/stage_heater.jpg)
 
-This heater was really good for years. However the ones purchased recently are not reliable. They may work sporadically and then stop completely after less than a month. So we want to find a better heater.
+This heater was really good for years. However the ones purchased recently (June 2019, June 2018) are not reliable. Swamini Amma is not happy with this heater. They work fine for awhile and turn off for some reason. Possibly the thermostat is not working right. So we want to find a better heater.
 
 Characteristics of a good stage heater
   * Small
@@ -251,7 +250,7 @@ Once the stage is set up, it is virtually impossible to reposition it. Therefore
 
 Sometimes the hotel has a limited amount of stage sections that are included in the rates and so we may have to accept that.
 
-### Size and Height of stage
+### Size and height of stage
 In 2018, the most common stage size was 32 feet wide and 24 feet front to back. Typically the stage height was 36 inches. In 2019, the stages were similar except that the front-to-back distance was often less. This measurement is the most critical because, as it decreases below 24 feet, it becomes increasingly difficult to fit the Devi bhava temple on the stage.
 
 Also the stage should be centered in the hall.
