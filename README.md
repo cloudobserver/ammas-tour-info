@@ -74,7 +74,7 @@ The following drawings were made in 2000 so some modifications have occurred sin
 2. [Sketch - Side view](/images/chair_drawings/sketch_side_view.jpg)
 
 ## Darshan Table
-The height of the darshan table today is higher than shown in this old photo. The current darshan table is about 3.5 or 4 inches higher. Need to check.
+Updated with current dimensions 12/13/19
 
 ![darshan table](/images/darshan_table.jpg)
 
@@ -150,7 +150,7 @@ Estimated new dimensions 2019, increased due to additional padding -
 ![peetham with skirt](/images/peetham_1.jpg)
 ![peetham without skirt](/images/peetham_2.jpg)
 
-## Swami's Chair
+## Swami's Chair for Bhajans
   * Total height of chair from floor to top of backrest - not sure, about 16.25 inches
 
 Dimensions of base  -
@@ -318,7 +318,7 @@ The panels are extruded polystyrene (XPS) and are typically pink. The panels are
 The room should be furnished with a nice carpet, lighting, and a small table (check dimensions). Check with Hansa for details.
 
 ## Stage Lighting
-Typically the lighting provided by the hotel or other venue is adequate but may be supplemented with lights provided by Amrita TV. For information about these lights, contact Amrita TV.
+Most often two stages lights are provided by Amrita TV (Add new photo from phone) (one on each side of the stage) to supplement the lighting provided by the hotel or other venue. For information about these lights, contact Amrita TV.
 
 ## Devi Bhava
 
