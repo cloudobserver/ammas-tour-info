@@ -1,66 +1,90 @@
-# Amma's Tour Equipment
+### Who is Amma?
+![intro_photo](/images/amma_intro.jpg)
+
+[Amma](https://en.wikipedia.org/wiki/Mata_Amritanandamayi) is a spiritual master and humanitarian from Kerala, India. Also known as [Mata Amritanandmayi](https://en.wikipedia.org/wiki/Mata_Amritanandamayi), she is best known for individually hugging and blessing everyone who comes to see her. The following information is intended for those involved in supporting Amma's programs in various places around the world.
+
+# Amma's Tour Equipment & Setup
 
 ## Table of Contents
-* [Amma's Chair](#ammas-chair---dimensions)
+* [Darshan Setup](#darshan-setup)
+* [Amma's Chair - Dimensions](#ammas-chair---dimensions)
 * [Amma's Chair - Technical Drawings and Sketches](#ammas-chair---technical-drawings-and-sketches)
 * [Darshan Table](#darshan-table)
 * [Chair Blocks](#chair-blocks)
 * [Chair Cushion and Foot Cushions](#chair-cushion-and-foot-cushions)
 * [Zip Ties for Chair Blocks](#zip-ties-for-chair-blocks)
-* [Notes about Cloths for Amma's Chair](#notes-about-cloths-for-ammas-chair)
+* [Notes about Cloths for Amma's Chair](#cloths-for-ammas-chair---notes-and-dimensions)
 * [Flower Basket for Amma's Chair](#flower-basket-for-ammas-chair)
 * [Amma's Peetham](#ammas-peetham)
-* [Swami's Chair](#swamis-chair)
+* [Swami's Chair](#swamis-chair-for-bhajans)
 * [Swami's Table](#swamis-table)
 * [Amma's Bhajan Book Stand - 2006](#ammas-bhajan-book-stand---2006)
 * [Electrical Power](#electrical-power)
 * [Stage Heater for Amma](#stage-heater-for-amma)
 * [Fans](#fans)
 * [Stage](#stage)
+* [Amma's Stairs](#ammas-stairs)
 * [Stage carpets](#stage-carpets)
 * [Gaffers Tape and Taping the Stage](#gaffers-tape-and-taping-the-stage)
 * [Amma's Side Room](#ammas-side-room)
 * [Stage Lighting](#stage-lighting)
 * [Devi Bhava](#devi-bhava)
 * [Miscellaneous](#miscellaneous)
+
+## Darshan Setup
  
-Amma's Chair - All set up and ready 2015 -
+Amma's Chair - Detroit 2019
 
-![Darshan setup for Amma](/images/ready_for_darshan_SR_6_11_15.jpg)
+![darshan setup for Amma](/images/ammas_chair_MI_2019.jpg)
 
-## Amma's Chair
-### Dimensions
-Amma's darshan chair is constructed of pine, at least that's my guess. The chair can be disassembled and packed in a box for transporting between tour stops.
+Darshan tray - Hollywood 2019, Apples from Amma's orchard!
 
-Some of these photos (the ones in which there is blue tape on the armrests) are from 2007 so some changes have occurred since then: 
+![darshan tray and table](/images/darshan_tray_2019.jpg)
+
+## Amma's Chair - Dimensions
+
+Amma's darshan chair, the one used for summer tour of North America, is constructed of pine. The chair can be disassembled and packed in a box for transporting between tour stops.
+
+Some of these photos (ones in which there is blue tape on the armrests) are from 2007 so some changes have occurred since then: 
   * Armrests are now lower.
   * Foot cushion holder has been rebuilt although critical dimensions probably haven't changed much. 
 
 ![Ammas chair front view](/images/chair_1.jpg)
+
 ![Ammas chair front view, diagonal](/images/chair_2.jpg)
+
 ![Ammas chair side view](/images/chair_3.jpg)
+
 ![Ammas chair side view at slight angle](/images/chair_6.jpg)
+
 ![Amma's chair back view](/images/chair_5.jpg)
+
 ![Amma's chair foot cushion](/images/chair_7.jpg)
 
 ### Amma's Chair - Armrests
-The next two photos show the armrests at the current height (2019).
+The next two photos show the height of the armrests for summer tour.
 
-![Amma's chair armrests with sitting cushion](/images/chair_recent_1.jpg)
-![Amma's chair armrests without sitting cushion](/images/chair_recent_2.jpg)
+![Amma's chair armrests with sitting cushion](/images/chair_lower_armrests_1.jpg)
+
+![Amma's chair armrests without sitting cushion](/images/chair_lower_armrests_2.jpg)
 
 This old photo (below) shows armrests that are about 3.5 inches higher than on today's chair. The chair Amma uses in Michigan has armrests at this higher position.
 
 ![Amma's chair armrest](/images/chair_4.jpg)
-![Amma's chair armrest](/images/chair_4.jpg)
 
-### Amma's Chair - Carvings
+### Amma's Chair - Woodworking details
 
-![Amma's chair carvings](/images/chair_carving.jpg)
+Amma's chair for North American summer tour -
+
+![Amma's SR chair carvings](/images/chair_detail_elephants.jpg)
+
+Amma's chair for Michigan fall tour -
+
+![Amma's MI chair carvings](/images/chair_detail_swallows.jpg)
 
 ## Amma's Chair - Technical drawings and sketches
 
-The following drawings were made in 2000 so some modifications have occurred since then. The photos (above) are somewhat more recent.
+The following drawings were made in 2000 so some modifications have occurred since then. The photos are more recent.
 
 1. [Armrests](/images/chair_drawings/1_armrests.jpg)
 2. [Leg units](/images/chair_drawings/2_leg_units.jpg)
@@ -74,37 +98,42 @@ The following drawings were made in 2000 so some modifications have occurred sin
 2. [Sketch - Side view](/images/chair_drawings/sketch_side_view.jpg)
 
 ## Darshan Table
-Updated with current dimensions 12/13/19
+
+Dimensions - updated
 
 ![darshan table](/images/darshan_table.jpg)
 
 ## Chair Blocks
-The chair blocks are placed under the feet of Amma's chair to adjust the height. These photos show the various combinations of blocks that we use to achieve various chair heights. 
 
-The small brown block adds 0.75 inch. Each of the larger yellow blocks adds 1.5 inches. 
+The chair blocks are placed under the feet of Amma's chair to adjust the height. Often multiple blocks are stacked together to achieve the desired height (see below). When stacked, it's important that the blocks on top don't slide off. Therefore the blocks are shaped with indentations so that they nest together when stacked.
 
-Block combinations - 
-  * One small block = 0.75 inch
-  * One large block = 1.5 inch
-  * One large plus one small = 2.25 inches
-  * Two large blocks = 3 inches
-  * Two large plus one small = 3.75 inches
-  * Stiletto block = 4.5 inches
-  * Stiletto block plus one small = 5.25 inches 
+  * The small brown block adds 0.75 inch. 
+  * Each of the larger yellow blocks adds 1.5 inches. 
+
+Heights of various block combinations - 
+
+  * A. One small block = 0.75 inch
+  * B. One large block = 1.5 inch
+  * C. One large plus one small = 2.25 inches
+  * D. Two large blocks = 3 inches
+  * E. Two large plus one small = 3.75 inches
+  * F. Stiletto block = 4.5 inches
+  * G. Stiletto block plus one small = 5.25 inches
   * Higher than this is not recommended due to instability
 
-
 ![chair blocks, increments 1, 2, and 3](/images/chair_blocks_1.jpg)
+
 ![chair blocks, increments 4, 5, and 6](/images/chair_blocks_2.jpg)
 
 ## Chair Cushion and Foot Cushions
 Dimensions of Amma's chair cushion -
-  * Inches - 23.75 by 35.5 by 2
-  * Centimeters - 60.3 by 90.2 by 5.1
+  * Width - 23.75 inches, 60.3 cm
+  * Front to Back - 35.5 inches, 90.2 cm
+  * Thickness - 2 inches, 5.1 cm
 
-The firmness of the chair cushion (the surface that Amma sits on) is very important but there is no standard way to quantify the firmness. We have a couple chair cushions that Amma seems to like but they are made from a type of foam that isn’t available any more. So far, we have not found foam of equivalent firmness.
+The firmness of the chair cushion (the surface that Amma sits on) is very important but there is no standard way to quantify the firmness. We have a couple chair cushions that Amma seems to like but they are made from a type of foam that isn’t available any more. As far as we know, this type of foam, or any foam of equivalent firmness, is not currently available. 
 
-When sitting in Her darshan chair, Amma's feet are resting on one or more foot cushions. These cushions are quite firm and are constructed from layers of blue foam. The blue foam comes from camping pads that we buy at Walmart. When the height of the chair is adjusted, it is likely that the foot cushions will also be adjusted soon after. This is achieved by adding or removing a "riser", a foot cushion about one inch thick or less. 
+When sitting in Her darshan chair, Amma's feet rest on one or more foot cushions. These cushions are quite firm and are constructed from layers of blue foam. The blue foam comes from camping pads that are usually available at [Walmart](https://www.walmart.com/ip/Ozark-Trail-Closed-Cell-Foam-Blue-Camp-Sleeping-Pad/634956813). When the height of the chair is adjusted, it is likely that the foot cushions will also be adjusted soon after. This is achieved by adding or removing a "riser", a foot cushion about one inch thick or less. 
 
 Example measurements - These are from years ago but still provide a rough idea.
   * Height of chair - 18 inches 
@@ -117,37 +146,41 @@ Example measurements - These are from years ago but still provide a rough idea.
 ## Zip Ties for Chair Blocks
 Immediately after evening bhajans and meditation, two sevites move Amma's chair into position so darshan can begin. This needs to happen quickly, so it is not practical to set the chair and then add the chair blocks. Therefore we use zip ties to hold the blocks on the bottom of the chair legs. For each leg of the chair, a zip tie is inserted through holes in the block(s) and through a hole drilled in the leg of the chair. This provides a means of temporarily attaching the blocks to the chair. Then when we carry the chair and set it down, Amma can sit immediately, no delays while setting blocks in place. After darshan begins, within a few minutes, the zip ties should be removed because otherwise they will interfere if blocks need to be added or removed.
 
-## Notes about Cloths for Amma's Chair
-These notes about the chair coverings may be outdated so check with Hansa for current info.
-
-![chair cloth notes](/images/chair_cloth_notes.jpg)
+## Cloths for Amma's Chair - Notes and Dimensions
+[This document](/images/chair_cloth_notes.jpg) gives dimensions and instructions for making chair cloths. Please check with Hansa for the most current information.
 
 ## Flower Basket for Amma's Chair
 The flower basket is attached to the shelf with magnets and is adjustable. The shelf attaches to the chair with bolts. The flower basket should be positioned as far forward on the shelf as possible. This makes it easier for Amma to grab flower petals.
 
-![flower basket](/images/flower_basket.jpg)
-![flower basket in position on the chair](/images/flower_basket_in_place.jpg)
-![flower basket shelf](/images/flower_basket_shelf_3.jpg)
-![flower basket shelf showing attaching bolts](/images/flower_basket_shelf_4.jpg)
-![flower basket on shelf, not on chair](/images/flower_basket_shelf_2.jpg)
-![flower basket dimensions](/images/flower_basket_shelf_1.jpg)
+![flower basket](/images/flower_basket_1.jpg)
+
+![flower basket in position on the chair](/images/flower_basket_2.jpg)
+
+![flower basket shelf](/images/flower_basket_shelf_1.jpg)
+
+![flower basket shelf showing attaching bolts](/images/flower_basket_shelf_2.jpg)
+
+![flower basket on shelf, not on chair](/images/flower_basket_shelf_3.jpg)
+
+[Click for dimensions of flower basket shelf](/images/flower_basket_shelf_4.jpg)
 
 ## Amma's Peetham
-The dimensions of the peetham increased this summer (2019) when padding was added on the top and sides. 
+The dimensions of the peetham increased in summer 2019 when padding was added on the top and sides. 
 
 Old dimensions 2018 -
   * Height: 13 5/8 inches (13.625")
   * Width side-to-side: 52.5 inches
   * Length front-to-back: 43.5 inches
 
-Estimated new dimensions 2019, increased due to additional padding -
+Estimated new dimensions 2020, increased due to additional padding -
   * Height: 14.5
   * Width side-to-side: 54 inches
   * Length front-to-back: 45 inches
 
-### Photos of Amma's peetham - prior to 2019
+### Amma's peetham - 2012
 
 ![peetham with skirt](/images/peetham_1.jpg)
+
 ![peetham without skirt](/images/peetham_2.jpg)
 
 ## Swami's Chair for Bhajans
@@ -163,10 +196,10 @@ Dimensions of backrest piece -
   * Height, top to bottom (backrest only, not including height of base) - 12.75 inches
   * Thickness - 4.25 inches
 
-![swamis chair front view](/images/swamis_chair_3.jpg)
-![swamis chair frontish view](/images/swamis_chair_1.jpg)
-![swamis chair side view](/images/swamis_chair_4.jpg)
-![swamis chair backish view](/images/swamis_chair_2.jpg)
+![swamis chair front view](/images/swamis_chair_1.jpg)
+![swamis chair frontish view](/images/swamis_chair_2.jpg)
+![swamis chair side view](/images/swamis_chair_3.jpg)
+![swamis chair backish view](/images/swamis_chair_4.jpg)
 ![swamis chair back view](/images/swamis_chair_5.jpg)
 
 ## Swami's Table
@@ -191,16 +224,16 @@ Dimensions of backrest piece -
   * Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
 
 ### Estimated power needs for stage and vicinity
-  * Stage - Darshan fans, heater, decorative lights on backdrop and altar - Total amps?
+  * Stage - Darshan fans, heater (800 watts), decorative lights on backdrop and altar - Total amps? One circuit is enough
   * Sound system - Total amps?
   * Massive video screen on back of stage - Total amps?
   * Video projectors, one on each side of the stage - Total amps?
   * Lighting - Amrita TV - How many lights? Total amps?
   * Security table - Total amps?
-  * Coffee tent - Espresso machine etc. Total amps? Two circuits is enough.
-  * Hall supplies table - How many hot water kettles? Total amps? One circuit is enough as long as irons are plugged in elsewhere. 
-  * Ironing - How many irons? Total amps?
-  * Steamers - During DB setup. How many? Total amps? 
+  * Coffee tent - Need list of machines, Espresso machine etc. Total amps? Usually we give them two circuits.
+  * Hall supplies table - Assume 3 water kettles and/or electric skillets, 1500 watts each. Estimated total  - 4500 watts 
+  * Ironing - Assume 4 irons max, 1200 watts each. Estimated total - 4800 watts
+  * Steamers - Assume 3 steamers max, 1500 watts each. Estimated total - 4500 watts. Only used during Devi Bhava setup.
   * Devi Bhava temple - Lights - Total amps?
 
 ## Stage heater for Amma
@@ -208,7 +241,7 @@ Dimensions of backrest piece -
 
 ![stage heater for Amma](/images/stage_heater.jpg)
 
-This heater was really good for years. However the ones purchased recently (June 2019, June 2018) are not reliable. Swamini Amma is not happy with this heater. They work fine for awhile and turn off for some reason. Possibly the thermostat is not working right. So we want to find a better heater.
+This heater was really good for years. However the ones purchased recently (June 2019, June 2018) are not reliable. They work fine for awhile and then turn off for some reason. Possibly the thermostat is not working right. Swamini Amma is not happy with this heater. So we want to find a better heater.
 
 Characteristics of a good stage heater
   * Small
@@ -234,7 +267,7 @@ Below is the preferred fan to use for Amma during darshan. This fan often become
 
 [Recommended – Hunter 90438 16” RETRO Stand Fan with brushed nickel finish](https://www.amazon.com/Hunter-90438-Brushed-Nickel-Finish/dp/B00ZA20AY4/ref=sr_1_3?keywords=hunter+stand+fan&qid=1566354803&s=home-garden&sr=1-3)
 
-![Hunter pedestal fan - 16 inch](/images/hunter_fan.jpg)
+![Hunter pedestal fan - 16 inch](/images/stage_fan.jpg)
 
 [Search for Hunter fans on Google](https://www.google.com/search?hl=en&tbm=shop&q=hunter+stand+fans&oq=hunter+stand+fans)
 
@@ -243,7 +276,7 @@ Below is the preferred fan to use for Amma during darshan. This fan often become
 ### Other fans
 During Devi Bhava, the darshan hall may become very hot and then we need two more fans on the stage, which means a total of four fans. These additional fans are positioned to cool off those coming for darshan. These fans don't need to be as tall as the main darshan fans. 
 
-As of summer tour 2019, the tour trucks bring all four fans for the stage. However fans occasionally break down or get lost or borrowed. Or there may be a surprise request for a fan or two. So it is wise, but not required, for each city to bring two good fans to the program hall.
+On the summer tour, the tour trucks bring all four fans for the stage. However fans occasionally break down or get lost or borrowed. Or there may be a surprise request for a fan or two. So it is wise, but not required, for each city to bring two good fans to the program hall.
 
 ## Stage
 Once the stage is set up, it is virtually impossible to reposition it. Therefore always check with tour coordinators for current requirements for stage length, width, height, and clearance behind the stage. Requirements can change at any time.
@@ -261,10 +294,17 @@ Normally there should be about 9 or 10 feet between the back of the stage and th
 ### Levelness and stability of hotel stages
 At some venues, the stage may creak and shift as people walk on it. This is usually because the sections are not firmly fastened together. If it's really bad, the connections between the sections should be tightened. This involves figuring out how the sections are designed to lock together. And then finding a way to fix it, including crawling underneath and maybe tightening connections with a wrench or shims. 
 
-In addition, the stage may be uneven due to sections being at slightly different heights. This can be remedied by installing shims which involves lifting the stage and inserting the shims.
+In addition, the stage may be uneven due to sections being at slightly different heights. This can be remedied by installing shims which involves lifting the stage and inserting the shims under the legs.
+
+## Amma's stairs
+For Amma's tours of North America, we provide a special set of stairs for Amma.
+
+![Amma's stairs - LA 11/19](/images/ammas_stairs.jpg)
 
 ## Stage carpets
-Each city is required to provide stage carpets ("the red carpets"). This includes installing and taping the carpets onto the stage. The carpets should be on the stage before the trucks arrive. Arranging and taping the carpets takes hours. Taping is explained in more detail below.
+Each city is required to provide stage carpets ("the red carpets"). This includes installing and taping the carpets onto the stage. The carpets should be on the stage before the trucks arrive. Arranging and taping the carpets takes hours. 
+
+(Add detailed taping instructions)
 
 The red carpets are the base layer. Nicer fancier carpets are taped on top of them in the area under and around Amma's chair. 
 
@@ -305,44 +345,57 @@ The local devotees also need to provide 2 rolls of 1 inch wide "Pro Gaff" brand 
 This does not include tape for other purposes such as taping the skirt on the front of the stage or taping electrical wires. 
 
 ## Amma's Side Room
-For every program, we need to provide a resting room for Amma in case She wants a break. This room is known as the "side room" or "Amma's room". The interior of the room should measure about 6 feet by 9 feet, with an interior height of 6.5 feet (estimated dimensions, need to check). Also the room needs to be made of material that blocks most sound.
+At each venue, we provide a resting room for Amma in case She wants a break. This room is known as the "side room" or "Amma's room". The room should be made of material that blocks most sound.
 
-On the summer tour, we transport a set of panels that assemble into this room. It was constructed by Jebron and is beyond excellent. It is lightweight, easy to assemble, and can be transported with minimal damage.
+Interior dimensions (estimated) - 
+  * Width - 6 feet 
+  * Length - 9 feet
+  * Height - 6.5 feet 
 
-### Cheaper version of side room
-For a room that doesn't need to be transported constantly between venues, a simpler less expensive solution is preferred. A good example is the room they use at Amma's programs in Michigan. They built this structure out of foam insulation panels purchased at Home Depot. The room consists of panels that are cut to size and taped together. 
+For the summer tour, Amma's room consists of a set of panels. They are disassembled for transportation. It is lightweight, easy to assemble, and can be transported with minimal damage. It was designed and built by Jebron. 
 
-The panels are extruded polystyrene (XPS) and are typically pink. The panels are 2 (or 3?) inches thick, 4 feet wide, and 8 feet long. They are extremely lightweight and seem to block the sound well enough.
+![Amma's side room - 2019](/images/ammas_room.jpg)
 
 ### Furnishings for side room
 The room should be furnished with a nice carpet, lighting, and a small table (check dimensions). Check with Hansa for details.
 
+### Cheaper version of side room
+For a room that doesn't need to be transported constantly between venues, a simpler less expensive version is advised. For example, at Amma's programs in Michigan, they built a room from standard insulation panels purchased at Home Depot. They cut the panels to size and taped them together with foil tape. 
+
+The panels are made of extruded polystyrene (XPS) and are typically pink. They come in 4 by 8 foot sheets and should be at least 2 inches thick. They are extremely lightweight and seem to block the sound well enough.
+
 ## Stage Lighting
-Most often two stages lights are provided by Amrita TV (Add new photo from phone) (one on each side of the stage) to supplement the lighting provided by the hotel or other venue. For information about these lights, contact Amrita TV.
+Most often two stages lights are provided by Amrita TV (one on each side of the stage) to supplement the lighting provided by the hotel or other venue. 
+
+![Amrita TV stage light](/images/stage_light.jpg)
+For information about these lights, contact Amrita TV.
 
 ## Devi Bhava
 
-### Setting up the Temple
-The Devi Bhava umbrella is in the foreground.
-
-![Setting up the temple](/images/Devi_bhava_setup.jpg)
-
-### Size of the Temple
+### Size of the Devi Bhava Temple
 * Width - 16 feet
 * Front-to-back - 14 feet
 * Estimated dimensions
 
+### Setting up the Temple
+
+![Setting up the temple](/images/db_setup_hollywood.jpg)
+
+The Devi Bhava umbrella is in the foreground.
+
+![Setting up the temple](/images/db_setup_atlanta.jpg)
+
 ### Steaming the curtains
 ![Steaming the curtains](/images/steaming_curtains.jpg)
 
-### Devi Bhava umrella
-Need a photo and dimensions.
+### Devi Bhava umbrella
+(Need a photo and dimensions)
 
 ### Water tables for Atma Puja
-Need a photo and dimensions. 
+(Need a photo and dimensions) 
 
 ### Setup for Atma Puja
-Includes oil lamp, camphor, vibuthi, and more, all arranged perfectly. Need a photo.
+Includes oil lamp, camphor, vibuthi, and more, all arranged perfectly. (Need a photo)
 
 ## Miscellaneous
 [Drawing - Dimensions of Amma's back jack 2012](/images/other_drawings/back_jack.jpg)
