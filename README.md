@@ -4,6 +4,8 @@
 
 [Amma](https://en.wikipedia.org/wiki/Mata_Amritanandamayi) is a spiritual master and humanitarian from Kerala, India. Also known as [Mata Amritanandmayi](https://en.wikipedia.org/wiki/Mata_Amritanandamayi), she is best known for individually hugging and blessing everyone who comes to see her. The following information is intended for those involved in supporting Amma's programs in various places around the world.
 
+![intro_photo](/images/atma_puja.jpg)
+
 # Amma's Tour Equipment & Setup
 
 ## Table of Contents
@@ -152,9 +154,7 @@ Example measurements - These are from years ago but still provide a rough idea.
 
 Immediately after evening bhajans and meditation, two sevites move Amma's chair into position so darshan can begin. This needs to happen quickly, so it is not practical to set the chair and then add the chair blocks. Therefore we use zip ties to hold the blocks on the bottom of the chair legs. For each leg of the chair, a zip tie is inserted through holes in the block(s) and through a hole drilled in the leg of the chair. This provides a means of temporarily attaching the blocks to the chair. Then when we carry the chair and set it down, Amma can sit immediately, no delays while setting blocks in place. After darshan begins, within a few minutes, the zip ties should be removed because otherwise they will interfere if blocks need to be added or removed.
 
-## Cloths for Amma's Chair - Notes and Dimensions
-
-[This document](/images/chair_cloth_notes.jpg) gives dimensions and instructions for making chair cloths. Please check with Hansa for the most current information.
+## Cloths for Amma's Chair
 
 ## Flower Basket for Amma's Chair
 
@@ -244,28 +244,34 @@ Dimensions of backrest piece -
 ### Estimated power needs for stage and vicinity
 
 * Stage
-\- Darshan fans  \- 2 @ 55 watts = 110 watts
-\- Heater \- 800 watts
-\- Decorative lights on backdrop and altar \- ? watts ?
-\- Total amps needed \- ?
-\- One circuit is enough
+    * Darshan fans  - 2 @ 55 watts = 110 watts
+    * Heater - 800 watts
+    * Decorative lights on backdrop and altar - watts?
+    * Total amps - ?
+    * One circuit is enough
 * Coffee tent
-\- Espresso machine
-\- Other machines \(need list\)
-\- Total amps?
-\- Usually two circuits
+    * Espresso machine
+    * Other machines (need list)
+    * Total amps - ?
+    * Definitely more than one circuit
 * Hall supplies table
-\- Water kettles and/or electric skillets\,  3 @ 1500 watts each
-\- Estimated total \- 4500 watts
+    * Water kettles / electric skillet, 3 @ 1500 watts each
+    * Estimated total - 4500 watts
+* Amma's side room
+    * Fan, heater, light
+    * Not using much power
 * Ironing
--  Irons - 4 @ 1200 watts each.
-\- Estimated total \- 4800 watts
+    * Irons - 4 @ 1200 watts each.
+    * Estimated total - 4800 watts
 * Steamers
-\- Steamers \- 3 @ 1500 watts each
--  Estimated total - 4500 watts.
-\- Only used during Devi Bhava setup\.
-* Devi Bhava temple - Lights, fans, heater - Total amps?
-* Sound system - Total amps?
+    * Steamers - 3 @ 1500 watts each
+    * Estimated total - 4500 watts
+    * Only needed during Devi Bhava setup
+* Devi Bhava temple
+    * Lights, fans, heater
+    * Total amps - ?
+* Sound system
+    * Total amps - ?
 * Massive video screen on back of stage - Total amps?
 * Video projectors, one on each side of stage - Total amps?
 * Lighting - Amrita TV - How many lights? Total amps?
