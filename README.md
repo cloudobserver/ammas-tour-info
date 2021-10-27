@@ -17,7 +17,6 @@
 * [Chair Blocks](#chair-blocks)
 * [Chair Cushion and Foot Cushions](#chair-cushion-and-foot-cushions)
 * [Zip Ties for Chair Blocks](#zip-ties-for-chair-blocks)
-* [Notes about Cloths for Amma's Chair](#cloths-for-ammas-chair---notes-and-dimensions)
 * [Flower Basket for Amma's Chair](#flower-basket-for-ammas-chair)
 * [Amma's Peetham](#ammas-peetham)
 * [Swami's Chair](#swamis-chair-for-bhajans)
@@ -153,8 +152,6 @@ Example measurements - These are from years ago but still provide a rough idea.
 ## Zip Ties for Chair Blocks
 
 Immediately after evening bhajans and meditation, two sevites move Amma's chair into position so darshan can begin. This needs to happen quickly, so it is not practical to set the chair and then add the chair blocks. Therefore we use zip ties to hold the blocks on the bottom of the chair legs. For each leg of the chair, a zip tie is inserted through holes in the block(s) and through a hole drilled in the leg of the chair. This provides a means of temporarily attaching the blocks to the chair. Then when we carry the chair and set it down, Amma can sit immediately, no delays while setting blocks in place. After darshan begins, within a few minutes, the zip ties should be removed because otherwise they will interfere if blocks need to be added or removed.
-
-## Cloths for Amma's Chair
 
 ## Flower Basket for Amma's Chair
 
