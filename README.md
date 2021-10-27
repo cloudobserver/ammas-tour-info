@@ -236,42 +236,48 @@ Dimensions of backrest piece -
 - Everything labelled
 - Everything neat and tidy
 - Use high quality fittings and equipment
-- Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
+- Create a diagram of our electrical system that we plug in to the hotel's supply and provide to Amma
 
 ### Estimated power needs for stage and vicinity
 
 - Stage
-  - Darshan fans  - 2 @ 55 watts = 110 watts
-  - Heater - 800 watts
-  - Decorative lights on backdrop and altar - watts?
+  - Darshan fans - 2 @ 55 watts = 110 watts
+  - Heater - 800-1500 watts
+  - Decorative lights on backdrop and altar - Not much watts
   - Total amps - ?
   - One circuit is enough
 - Coffee tent
   - Espresso machine
   - Other machines (need list)
   - Total amps - ?
-  - Definitely more than one circuit
+  - Two circuits minimum
 - Hall supplies table
   - Water kettles / electric skillet, 3 @ 1500 watts each
   - Estimated total - 4500 watts
+  - Two circuits minimum
 - Amma's side room
-  - Fan, heater, light
-  - Not using much power
+  - Fan - 55 watts max
+  - Heater - 800-1500 watts
+  - Light
+  - One circuit is enough
 - Ironing
-  - Irons - 4 @ 1200 watts each.
+  - Irons - 4 @ 1200 watts each
   - Estimated total - 4800 watts
+  - Best to spread across three circuits
 - Steamers
   - Steamers - 3 @ 1500 watts each
   - Estimated total - 4500 watts
   - Only needed during Devi Bhava setup
 - Devi Bhava temple
-  - Lights, fans, heater
+  - Lights - huge, easily thousands of watts
+  - Darshan fans - 4 @ 55 watts = 220 watts
+  - Heater - 800-1500 watts
   - Total amps - ?
 - Sound system
   - Total amps - ?
 - Massive video screen on back of stage - Total amps?
 - Video projectors, one on each side of stage - Total amps?
-- Lighting - Amrita TV - How many lights? Total amps?
+- Lighting - Amrita TV - Two or three lights? Total amps?
 - Security table - Total amps?
 
 ## Stage heater for Amma
