@@ -10,29 +10,29 @@
 
 ## Table of Contents
 
-* [Darshan Setup](#darshan-setup)
-* [Amma's Chair - Dimensions](#ammas-chair---dimensions)
-* [Amma's Chair - Technical Drawings and Sketches](#ammas-chair---technical-drawings-and-sketches)
-* [Darshan Table](#darshan-table)
-* [Chair Blocks](#chair-blocks)
-* [Chair Cushion and Foot Cushions](#chair-cushion-and-foot-cushions)
-* [Zip Ties for Chair Blocks](#zip-ties-for-chair-blocks)
-* [Flower Basket for Amma's Chair](#flower-basket-for-ammas-chair)
-* [Amma's Peetham](#ammas-peetham)
-* [Swami's Chair](#swamis-chair-for-bhajans)
-* [Swami's Table](#swamis-table)
-* [Amma's Bhajan Book Stand - 2006](#ammas-bhajan-book-stand---2006)
-* [Electrical Power](#electrical-power)
-* [Stage Heater for Amma](#stage-heater-for-amma)
-* [Fans](#fans)
-* [Stage](#stage)
-* [Amma's Stairs](#ammas-stairs)
-* [Stage carpets](#stage-carpets)
-* [Gaffers Tape and Taping the Stage](#gaffers-tape-and-taping-the-stage)
-* [Amma's Side Room](#ammas-side-room)
-* [Stage Lighting](#stage-lighting)
-* [Devi Bhava](#devi-bhava)
-* [Miscellaneous](#miscellaneous)
+- [Darshan Setup](#darshan-setup)
+- [Amma's Chair - Dimensions](#ammas-chair---dimensions)
+- [Amma's Chair - Technical Drawings and Sketches](#ammas-chair---technical-drawings-and-sketches)
+- [Darshan Table](#darshan-table)
+- [Chair Cushion and Foot Cushions](#chair-cushion-and-foot-cushions)
+- [Chair Blocks](#chair-blocks)
+- [Zip Ties for Chair Blocks](#zip-ties-for-chair-blocks)
+- [Flower Basket for Amma's Chair](#flower-basket-for-ammas-chair)
+- [Amma's Peetham](#ammas-peetham)
+- [Swami's Chair](#swamis-chair-for-bhajans)
+- [Swami's Table](#swamis-table)
+- [Amma's Bhajan Book Stand - 2006](#ammas-bhajan-book-stand---2006)
+- [Electrical Power](#electrical-power)
+- [Stage Heater for Amma](#stage-heater-for-amma)
+- [Fans](#fans)
+- [Stage](#stage)
+- [Amma's Stairs](#ammas-stairs)
+- [Stage carpets](#stage-carpets)
+- [Gaffers Tape and Taping the Stage](#gaffers-tape-and-taping-the-stage)
+- [Amma's Side Room](#ammas-side-room)
+- [Stage Lighting](#stage-lighting)
+- [Devi Bhava](#devi-bhava)
+- [Miscellaneous](#miscellaneous)
 
 ## Darshan Setup
 
@@ -50,8 +50,8 @@ Amma's darshan chair, the one used for summer tour of North America, is construc
 
 Some of these photos (ones in which there is blue tape on the armrests) are from 2007 so some changes have occurred since then:
 
-* Armrests are now lower.
-* Foot cushion holder has been rebuilt although critical dimensions probably haven't changed much.
+- Armrests are now lower.
+- Foot cushion holder has been rebuilt although critical dimensions probably haven't changed much.
 
 ![Ammas chair front view](/images/chair_1.jpg)
 
@@ -106,35 +106,13 @@ The following drawings were made in 2000 so some modifications have occurred sin
 
 ![darshan table](/images/darshan_table.jpg)
 
-## Chair Blocks
-
-The chair blocks are placed under the feet of Amma's chair to adjust the height. Often multiple blocks are stacked together to achieve the desired height (see below). When stacked, it's important that the blocks on top don't slide off. Therefore the blocks are shaped with indentations so that they nest together when stacked.
-
-* The small brown block adds 0.75 inch.
-* Each of the larger yellow blocks adds 1.5 inches.
-
-Heights of various block combinations -
-
-* A. One small block = 0.75 inch
-* B. One large block = 1.5 inch
-* C. One large plus one small = 2.25 inches
-* D. Two large blocks = 3 inches
-* E. Two large plus one small = 3.75 inches
-* F. Stiletto block = 4.5 inches
-* G. Stiletto block plus one small = 5.25 inches
-* Higher than this is not recommended due to instability
-
-![chair blocks, increments 1, 2, and 3](/images/chair_blocks_1.jpg)
-
-![chair blocks, increments 4, 5, and 6](/images/chair_blocks_2.jpg)
-
 ## Chair Cushion and Foot Cushions
 
 Dimensions of Amma's chair cushion -
 
-* Width - 23.75 inches, 60.3 cm
-* Front to Back - 35.5 inches, 90.2 cm
-* Thickness - 2 inches, 5.1 cm
+- Width - 23.75 inches, 60.3 cm
+- Front to Back - 35.5 inches, 90.2 cm
+- Thickness - 2 inches, 5.1 cm
 
 The firmness of the chair cushion (the surface that Amma sits on) is very important but there is no standard way to quantify the firmness. We have a couple chair cushions that Amma seems to like but they are made from a type of foam that isn’t available any more. As far as we know, this type of foam, or any foam of equivalent firmness, is not currently available.
 
@@ -142,12 +120,34 @@ When sitting in Her darshan chair, Amma's feet rest on one or more foot cushions
 
 Example measurements - These are from years ago but still provide a rough idea.
 
-* Height of chair - 18 inches
-* Height of blocks - 2.25 inches
-* Total height of sitting surface from floor - 20.25 inches
-(Height of chair plus height of blocks)
-* Height of foot cushions - 6.75 in
-* Height of sitting surface from top of foot cushions - 13.5 in
+- Height of chair - 18 inches
+- Height of blocks - 2.25 inches
+- Total height of sitting surface from floor - 20.25 inches
+  (Height of chair plus height of blocks)
+- Height of foot cushions - 6.75 in
+- Height of sitting surface from top of foot cushions - 13.5 in
+
+## Chair Blocks
+
+The chair blocks are placed under the feet of Amma's chair to adjust the height. Often multiple blocks are stacked together to achieve the desired height (see below). When stacked, it's important that the blocks on top don't slide off. Therefore the blocks are shaped with indentations so that they nest together when stacked.
+
+- The small brown block adds 0.75 inch.
+- Each of the larger yellow blocks adds 1.5 inches.
+
+Heights of various block combinations -
+
+- A. One small block = 0.75 inch
+- B. One large block = 1.5 inch
+- C. One large plus one small = 2.25 inches
+- D. Two large blocks = 3 inches
+- E. Two large plus one small = 3.75 inches
+- F. Stiletto block = 4.5 inches
+- G. Stiletto block plus one small = 5.25 inches
+- Higher than this is not recommended due to instability
+
+![chair blocks, increments 1, 2, and 3](/images/chair_blocks_1.jpg)
+
+![chair blocks, increments 4, 5, and 6](/images/chair_blocks_2.jpg)
 
 ## Zip Ties for Chair Blocks
 
@@ -175,15 +175,15 @@ The dimensions of the peetham increased in summer 2019 when padding was added on
 
 Old dimensions 2018 -
 
-* Height: 13 5/8 inches (13.625")
-* Width side-to-side: 52.5 inches
-* Length front-to-back: 43.5 inches
+- Height: 13 5/8 inches (13.625")
+- Width side-to-side: 52.5 inches
+- Length front-to-back: 43.5 inches
 
 Estimated new dimensions 2020, increased due to additional padding -
 
-* Height: 14.5
-* Width side-to-side: 54 inches
-* Length front-to-back: 45 inches
+- Height: 14.5
+- Width side-to-side: 54 inches
+- Length front-to-back: 45 inches
 
 ### Amma's peetham - 2012
 
@@ -193,19 +193,19 @@ Estimated new dimensions 2020, increased due to additional padding -
 
 ## Swami's Chair for Bhajans
 
-* Total height of chair from floor to top of backrest - not sure, about 16.25 inches
+- Total height of chair from floor to top of backrest - not sure, about 16.25 inches
 
 Dimensions of base -
 
-* Height to top of sitting surface - not sure, about 3.5 inches.
-* Front to back - 24 inches
-* Side to side - 23.25 inches
+- Height to top of sitting surface - not sure, about 3.5 inches.
+- Front to back - 24 inches
+- Side to side - 23.25 inches
 
 Dimensions of backrest piece -
 
-* Side to side - not sure, about 13.25 inches
-* Height, top to bottom (backrest only, not including height of base) - 12.75 inches
-* Thickness - 4.25 inches
+- Side to side - not sure, about 13.25 inches
+- Height, top to bottom (backrest only, not including height of base) - 12.75 inches
+- Thickness - 4.25 inches
 
 ![swamis chair front view](/images/swamis_chair_1.jpg)
 ![swamis chair frontish view](/images/swamis_chair_2.jpg)
@@ -221,62 +221,62 @@ Dimensions of backrest piece -
 
 ![book stand front view](/images/book_stand/stand_front_angle.jpg)
 
-* [Front view](/images/book_stand/stand_front.jpg)
-* [Front view at angle](/images/book_stand/stand_front_angle_2.jpg)
-* [Side view](/images/book_stand/stand_side.jpg)
-* [Side view at angle](/images/book_stand/stand_back_angle.jpg)
-* [Back view](/images/book_stand/stand_back.jpg)
+- [Front view](/images/book_stand/stand_front.jpg)
+- [Front view at angle](/images/book_stand/stand_front_angle_2.jpg)
+- [Side view](/images/book_stand/stand_side.jpg)
+- [Side view at angle](/images/book_stand/stand_back_angle.jpg)
+- [Back view](/images/book_stand/stand_back.jpg)
 
 ## Electrical power
 
 ### Safety instructions - given by Amma
 
-* Do not put cords or electrical boxes under the stage
-* Everything accessible
-* Everything labelled
-* Everything neat and tidy
-* Use high quality fittings and equipment
-* Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
+- Do not put cords or electrical boxes under the stage
+- Everything accessible
+- Everything labelled
+- Everything neat and tidy
+- Use high quality fittings and equipment
+- Create a diagram of our electrical system that we plug in to the hotels' supply and provide to Amma.
 
 ### Estimated power needs for stage and vicinity
 
-* Stage
-    * Darshan fans  - 2 @ 55 watts = 110 watts
-    * Heater - 800 watts
-    * Decorative lights on backdrop and altar - watts?
-    * Total amps - ?
-    * One circuit is enough
-* Coffee tent
-    * Espresso machine
-    * Other machines (need list)
-    * Total amps - ?
-    * Definitely more than one circuit
-* Hall supplies table
-    * Water kettles / electric skillet, 3 @ 1500 watts each
-    * Estimated total - 4500 watts
-* Amma's side room
-    * Fan, heater, light
-    * Not using much power
-* Ironing
-    * Irons - 4 @ 1200 watts each.
-    * Estimated total - 4800 watts
-* Steamers
-    * Steamers - 3 @ 1500 watts each
-    * Estimated total - 4500 watts
-    * Only needed during Devi Bhava setup
-* Devi Bhava temple
-    * Lights, fans, heater
-    * Total amps - ?
-* Sound system
-    * Total amps - ?
-* Massive video screen on back of stage - Total amps?
-* Video projectors, one on each side of stage - Total amps?
-* Lighting - Amrita TV - How many lights? Total amps?
-* Security table - Total amps?
+- Stage
+  - Darshan fans  - 2 @ 55 watts = 110 watts
+  - Heater - 800 watts
+  - Decorative lights on backdrop and altar - watts?
+  - Total amps - ?
+  - One circuit is enough
+- Coffee tent
+  - Espresso machine
+  - Other machines (need list)
+  - Total amps - ?
+  - Definitely more than one circuit
+- Hall supplies table
+  - Water kettles / electric skillet, 3 @ 1500 watts each
+  - Estimated total - 4500 watts
+- Amma's side room
+  - Fan, heater, light
+  - Not using much power
+- Ironing
+  - Irons - 4 @ 1200 watts each.
+  - Estimated total - 4800 watts
+- Steamers
+  - Steamers - 3 @ 1500 watts each
+  - Estimated total - 4500 watts
+  - Only needed during Devi Bhava setup
+- Devi Bhava temple
+  - Lights, fans, heater
+  - Total amps - ?
+- Sound system
+  - Total amps - ?
+- Massive video screen on back of stage - Total amps?
+- Video projectors, one on each side of stage - Total amps?
+- Lighting - Amrita TV - How many lights? Total amps?
+- Security table - Total amps?
 
 ## Stage heater for Amma
 
-* Optimus H-5511 Infrared Quartz Radiant Heater
+- Optimus H-5511 Infrared Quartz Radiant Heater
 
 ![stage heater for Amma](/images/stage_heater.jpg)
 
@@ -284,11 +284,11 @@ This heater was really good for years. However the ones purchased recently (June
 
 Characteristics of a good stage heater
 
-* Small
-* Unobtrusive
-* Must be very quiet because it will be right next to Amma during meditation
-* Must give a large amount of heat for it's size
-* Usually radiant heaters more suitable than other types
+- Small
+- Unobtrusive
+- Must be very quiet because it will be right next to Amma during meditation
+- Must give a large amount of heat for it's size
+- Usually radiant heaters more suitable than other types
 
 ## Fans
 
@@ -298,12 +298,12 @@ During darshan, we always have two fans near Amma, one on each side. During Amma
 
 Characteristics of a good darshan fan for Amma
 
-* Creates strong blast of air
-* Not too noisy
-* Solidly built – Fans made of metal are far superior to plastic ones. Plastic fans tend to break.
-* Height of fan – 56 inches (need to check). The fan should be high enough to blow over the people doing prasad seva.
-* Size of fan housing (cage that covers blades) – 16 inches
-* Fans that are too large are not appropriate.
+- Creates strong blast of air
+- Not too noisy
+- Solidly built – Fans made of metal are far superior to plastic ones. Plastic fans tend to break.
+- Height of fan – 56 inches (need to check). The fan should be high enough to blow over the people doing prasad seva.
+- Size of fan housing (cage that covers blades) – 16 inches
+- Fans that are too large are not appropriate.
 
 Below is the preferred fan to use for Amma during darshan. This fan often becomes unavailable and out of stock for long periods. Initially the fan is too short and needs to be modified to be taller.
 
@@ -403,9 +403,9 @@ At each venue, we provide a resting room for Amma in case She wants a break. Thi
 
 Interior dimensions (estimated) -
 
-* Width - 6 feet
-* Length - 9 feet
-* Height - 6.5 feet
+- Width - 6 feet
+- Length - 9 feet
+- Height - 6.5 feet
 
 For the summer tour, Amma's room consists of a set of panels. They are disassembled for transportation. It is lightweight, easy to assemble, and can be transported with minimal damage. It was designed and built by Jebron.
 
@@ -432,9 +432,9 @@ For information about these lights, contact Amrita TV.
 
 ### Size of the Devi Bhava Temple
 
-* Width - 16 feet
-* Front-to-back - 14 feet
-* Estimated dimensions
+- Width - 16 feet
+- Front-to-back - 14 feet
+- Estimated dimensions
 
 ### Setting up the Temple
 
