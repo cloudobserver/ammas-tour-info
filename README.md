@@ -116,7 +116,7 @@ Dimensions of Amma's chair cushion -
 
 The firmness of the chair cushion (the surface that Amma sits on) is very important but there is no standard way to quantify the firmness. We have a couple chair cushions that Amma seems to like but they are made from a type of foam that isn’t available any more. As far as we know, this type of foam, or any foam of equivalent firmness, is not currently available.
 
-When sitting in Her darshan chair, Amma's feet rest on one or more foot cushions. These cushions are quite firm and are constructed from layers of blue foam. The blue foam comes from camping pads that are usually available at [Walmart](https://www.walmart.com/ip/Ozark-Trail-Closed-Cell-Foam-Blue-Camp-Sleeping-Pad/634956813). When the height of the chair is adjusted, it is likely that the foot cushions will also be adjusted soon after. This is achieved by adding or removing a "riser", a foot cushion about one inch thick or less.
+When sitting in her darshan chair, Amma's feet rest on one or more foot cushions. These cushions are quite firm and are constructed from layers of blue foam. The blue foam comes from camping pads that are usually available at [Walmart](https://www.walmart.com/ip/Ozark-Trail-Closed-Cell-Foam-Blue-Camp-Sleeping-Pad/634956813). When the height of the chair is adjusted, it is likely that the foot cushions will also be adjusted soon after. This is achieved by adding or removing a "riser", a foot cushion about one inch thick or less.
 
 Example measurements - These are from years ago but still provide a rough idea.
 
@@ -446,7 +446,7 @@ For information about these lights, contact Amrita TV.
 
 ![Setting up the temple](/images/db_setup_hollywood.jpg)
 
-The Devi Bhava umbrella is in the foreground.
+Devi Bhava umbrella is in the foreground.
 
 ![Setting up the temple](/images/db_setup_atlanta.jpg)
 
@@ -456,15 +456,15 @@ The Devi Bhava umbrella is in the foreground.
 
 ### Devi Bhava umbrella
 
-(Need a photo and dimensions)
+(Need photo and dimensions)
 
 ### Water tables for Atma Puja
 
-(Need a photo and dimensions)
+(Need photo and dimensions)
 
 ### Setup for Atma Puja
 
-Includes oil lamp, camphor, vibuthi, and more, all arranged perfectly. (Need a photo)
+(Need photo) Includes oil lamp, camphor, vibuthi, and more, arranged perfectly
 
 ## Miscellaneous
 
